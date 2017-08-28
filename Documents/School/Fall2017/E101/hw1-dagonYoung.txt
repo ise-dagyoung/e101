@@ -1,0 +1,12 @@
+﻿										Dagon Young
+										E101 s. 30514/30515
+										HW 1
+										dagyoung@umail.iu.edu
+										@ise_DagonYoung
+										8 – 28 – 17 
+	
+
+
+	Engineering is the application of mathematics to create novel solutions to problems in design, research, and process. This process, engineering, produces technology which solves the problem at hand. By creating technology engineering obfuscates the complexity of solutions by use of technology, allowing laypeople to not need a working understanding of the solution – only the use of the technology. Intelligent system engineering to me is very similar to what was described before. The difference being that its approach to solving problems involves an intelligent sensing component (an AI, algorithm, logic unit, etc) integrating into a system to solve a problem. These sensing components are responsible for making decisions in a larger, more complicated algorithm. Intelligent systems engineering can obfuscate even more complex tasks or sets of instructions than traditional engineering methods by allowing multiple parts of a system to communicate and make decisions which utilize more information. As an engineer in the ISE program I hope to learn the tools which are used to organize projects and workflow for large projects. During the ISE program I aim to become a self-sufficient and organized engineer who is able to see ideas into plans, and see plans into products. I also hope to gain an understanding of how engineers share and collaborate professionally within the field and outside of it. Another thing I would like to get out of this program is preparedness for a graduate program if I choose to enter one after my undergraduate education. 
+	One skill I believe that is necessary to be a successful engineer is project development and management. Another skill/characteristic is having a strong network which is built through traditional means and social networking. The last skill is being able to self-teach in both a field of specialty but also in new fields which may have techniques and tools which make for simpler solutions.
+#e101
